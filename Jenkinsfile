@@ -8,7 +8,7 @@ def tools = new org.devops.tools()
 
 String workspace = "/opt/"
 
-hello
+hello（）
 //Pipeline
 pipeline {
     agent { node {  label "master"   //指定运行节点的标签或者名称
