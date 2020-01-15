@@ -5,7 +5,7 @@
 def tools = new org.devops.tools()
 
 
-hello
+call
 String workspace = "/opt/"
 
 //Pipeline
