@@ -1,4 +1,4 @@
 def call(){
-    println("hello")
+    println("this is vars test hello word")
 
 }
