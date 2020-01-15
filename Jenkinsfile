@@ -1,4 +1,3 @@
-##1.建立共享库。在github或svn上 src目录的  src/org/devops  var变量 jenkinsfile
 #!groovy
 
 @Library('jenkinslib') _
